@@ -5,7 +5,7 @@
 # 119.Fruit4SStoreMarketingManagementSystem
 
 <p>抠: 206157502(sql文件)</p>
-<p>V：bisebao888888(sql文件)</p>
+<p>V：bishebao888888(sql文件)</p>
 
 <p><h1 align="center">119.水果4S店营销管理系统</h1></p>
 
